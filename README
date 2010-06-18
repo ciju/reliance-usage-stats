@@ -1,0 +1,10 @@
+Gets stats from http://myservices.relianceada.com/ and shows the
+bandwitch usage, dividing it in based on 'peak' and 'off peak' usage. 
+
+You have to replace YOUR_PHONE_NO with your phone no.
+
+Its a small hack, and solves my purpose. I am not interested in
+bringing up lots of statistics etc around this.
+
+By the way, there are bugs also (and you thought its a free
+lunch?). Ex: it wont work around year starting etc.
